@@ -8,10 +8,10 @@ This repo provides a reference implementation of Bi-REACT as described in the pa
 The code was tested with `python 3.10.0`, `torch 2.0.1`,`cuda 11.7`and `transformers 4.38.2` Install the dependencies via Anaconda:
 ```shell
 # create virtual environment
-conda create --name bright python=3.10
+conda create --name bi_react python=3.10
 
 # activate environment
-conda activate bright
+conda activate bi_react
 
 # install cuda
 conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
