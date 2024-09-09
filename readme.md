@@ -1,5 +1,5 @@
-# CKGA
-This repo provides a reference implementation of BRIGHT as described in the paper:
+# Bi-REACT
+This repo provides a reference implementation of Bi-REACT as described in the paper:
 > Knowledge Graphs Generation via Bi-directional Relation Enhanced Contrastive Pretraining from Large-scale Models
 
 ---
