@@ -37,7 +37,7 @@ python ./dataset/build_data/generate_data.py
 # 5. Generate data based on the seed dataset
 python generate_new_datas.py
 
-# 6. 进行过滤和评价
+# 6. Filtering and evaluation
 python ./post_process/post_process.py
 ```
 ---
